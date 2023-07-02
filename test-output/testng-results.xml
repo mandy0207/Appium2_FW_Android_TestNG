@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="56651" started-at="2023-06-01T18:56:43 EDT" finished-at="2023-06-01T18:57:39 EDT">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="56651" started-at="2023-06-01T18:56:43 EDT" finished-at="2023-06-01T18:57:39 EDT">
+      <class name="tests.E2E_Ecommerce">
+        <test-method status="PASS" signature="ConfigureAppium()[pri:0, instance:tests.E2E_Ecommerce@74a10858]" name="ConfigureAppium" is-config="true" duration-ms="9384" started-at="2023-06-01T18:56:43 EDT" finished-at="2023-06-01T18:56:52 EDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- ConfigureAppium -->
+        <test-method status="PASS" signature="E2ETest()[pri:0, instance:tests.E2E_Ecommerce@74a10858]" name="E2ETest" duration-ms="47100" started-at="2023-06-01T18:56:52 EDT" finished-at="2023-06-01T18:57:39 EDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- E2ETest -->
+        <test-method status="PASS" signature="TearDown()[pri:0, instance:tests.E2E_Ecommerce@74a10858]" name="TearDown" is-config="true" duration-ms="1" started-at="2023-06-01T18:57:39 EDT" finished-at="2023-06-01T18:57:39 EDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TearDown -->
+      </class> <!-- tests.E2E_Ecommerce -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
